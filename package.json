@@ -1,0 +1,24 @@
+{
+  "name": "foursevenfive_builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/fill-pdf": "^0.5.2",
+    "@types/node": "^14.6.0",
+    "@types/progress": "^2.0.3",
+    "csv-parser": "^2.3.3",
+    "eslint": "^7.7.0",
+    "fill-pdf": "^1.1.0",
+    "prettier": "^2.0.5",
+    "progress": "^2.0.3",
+    "ts-node": "^9.1.1",
+    "typescript": "^3.9.7"
+  }
+}
