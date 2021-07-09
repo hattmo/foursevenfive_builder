@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@types/fill-pdf": "^0.5.2",
-    "@types/node": "^16.0.0",
-    "@types/progress": "^2.0.3",
+    "@types/node": "^16.0.3",
+    "@types/progress": "^2.0.4",
     "csv-parser": "^3.0.0",
     "eslint": "^7.30.0",
     "fill-pdf": "^1.1.0",
