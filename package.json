@@ -11,10 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "@types/fill-pdf": "^0.5.2",
-    "@types/node": "^16.10.9",
+    "@types/node": "^16.11.0",
     "@types/progress": "^2.0.5",
     "csv-parser": "^3.0.0",
-    "eslint": "^8.0.0",
+    "eslint": "^8.0.1",
     "fill-pdf": "^1.1.0",
     "prettier": "^2.4.1",
     "progress": "^2.0.3",
